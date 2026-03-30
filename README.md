@@ -1,7 +1,7 @@
 # 🏋️ Análisis de los Campeonatos Europeos de Halterofilia (2019–2024)
 
-> **Proyecto Final — Módulo 4: Análisis Exploratorio de Datos**
-> Máster en Data Analysis — Nuclio Digital School
+> ** Análisis Exploratorio de Datos**
+> Máster en Data Analytics
 > Autora: Claudia Balseiros
 
 ---
@@ -27,7 +27,7 @@ La dirección de Lift & Lead quiere **validar la hipótesis de que la popularida
 
 ```
 📁 european-weightlifting-analysis/
-├── 📓 Nuclio_Modulo4_Proyecto_final_Claudia_Balseiros.ipynb   # Notebook principal
+├── 📓 european-wightlifting-eda-notebook.ipynb   # Notebook principal
 ├── 📄 README.md                                               # Este archivo
 ├── 📄 requirements.txt                                        # Dependencias de Python
 ├── 📄 .gitignore
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### 3. Abre el notebook
 
 ```bash
-jupyter notebook Nuclio_Modulo4_Proyecto_final_Claudia_Balseiros.ipynb
+jupyter notebook european-wightlifting-analysis.ipynb
 ```
 
 > **Nota:** Los archivos de datos deben estar en la carpeta `data/` para que el notebook funcione correctamente.
@@ -113,5 +113,5 @@ jupyter notebook Nuclio_Modulo4_Proyecto_final_Claudia_Balseiros.ipynb
 ## 👩‍💻 Autora
 
 **Claudia Balseiros**
-Máster en Data Analysis — Nuclio Digital School
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) · [GitHub](https://github.com/tu-usuario)
+Máster en Data Analysis
+[LinkedIn](www.linkedin.com/in/claudia-balseiros-romero-1268b9341) · [GitHub](https://github.com/claucurtis)
